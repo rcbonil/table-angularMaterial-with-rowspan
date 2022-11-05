@@ -1,5 +1,7 @@
 # TableRowspan
 
+Plus info : [Angular Material Table rowspan columns based on dataSource object array property size](https://stackoverflow.com/questions/53857049/angular-material-table-rowspan-columns-based-on-datasource-object-array-property)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
 ## Development server
